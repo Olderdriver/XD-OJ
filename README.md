@@ -1,10 +1,12 @@
 # XD-OJ
 
+本仓库为国内镜像，同步可能不及时（
+
 XD-OJ题目的一些源代码，希望在使用前能弄懂原理。
 
 部分来源于CSDN的XD-OJ栏目
 
-还有一部分来源于学长Superbart的仓库[SuperBart](https://github.com/BenderBlog/Practise-Programs)
+还有一部分来源于学长Superbart的仓库[Link](https://github.com/BenderBlog/Practise-Programs)
 
 好好学寄导奥！
 
